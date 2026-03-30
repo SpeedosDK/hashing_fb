@@ -11,3 +11,6 @@ Ved at bruge wasm er der en masse ekstra arbejde, blandt andet konvertering fra 
 | JavaScript          | ~2953.3 ms | Ingen overhead ved små kald   |
 
 Til små opgaver med omkring 10 ord, var javascript hurtigere. Så hvis det bare er til et login, vil js være hurtigere.
+
+
+https://github.com/SpeedosDK/hashing_fb
